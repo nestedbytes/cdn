@@ -24,13 +24,13 @@
   /* Change the color of links on hover */
   .topnav a:hover {
   
-    color: orange;
+    color: aqua;
   }
   
   /* Add a color to the active/current link */
   .topnav a.active {
-    background-color: blue;
-    color: white;
+  
+    color: blue;
   }
 .About{
   background-color: dimgrey;
