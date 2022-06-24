@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Titan+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Anton&family=Lobster&family=Titan+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Lobster&family=Pacifico&family=Titan+One&display=swap');
 .Intro
 {
     background-color: #333;
@@ -44,5 +45,7 @@ background-color: firebrick;
   background-color: aquamarine;
     font-family: 'Titan One', cursive;
 }
-
+.Projects{
+    font-family: 'Titan One', cursive
+}
   
