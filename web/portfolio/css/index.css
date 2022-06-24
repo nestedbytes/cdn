@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Titan+One&display=swap');
 .Intro
 {
     background-color: #333;
@@ -31,7 +32,7 @@
   }
 .About{
   background-color: dimgrey;
-  
+  font-family: 'Titan One', cursive;
 
 }
 
