@@ -47,7 +47,13 @@ background-color: firebrick;
 }
 .Projects{
     font-family: 'Titan One', cursive
+
+}
+div.projectscroll{
+    div.scrollmenu {
+  background-color: #333;
   overflow: auto;
-  white-space: nowrap; 
+  white-space: nowrap;
+}
 }
   
