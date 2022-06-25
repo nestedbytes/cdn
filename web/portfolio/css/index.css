@@ -49,5 +49,11 @@ background-color: firebrick;
     font-family: 'Titan One', cursive
 
 }
+div.projectscroll{
+  
+  
+  overflow: auto;
+  white-space: nowrap;
+}
 
   
