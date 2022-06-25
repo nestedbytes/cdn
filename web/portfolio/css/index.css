@@ -47,5 +47,6 @@ background-color: firebrick;
 }
 .Projects{
     font-family: 'Titan One', cursive
+    overflow: auto;    
 }
   
