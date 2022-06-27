@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Anton&family=Lobster&family=Pacifico&family=Titan+One&display=swap');
 .Intro
 {
-      font-family: 'Titan One', cursive
+      font-family: 'Titan One', cursive;
     background-color: #333;
 }
 /* Add a black background color to the top navigation */
