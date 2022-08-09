@@ -35,6 +35,7 @@
   }
 .foot{
        background-color: dimgrey;
+      font-family: 'Titan One', cursive;
 }
 .About{
   background-color: dimgrey;
@@ -60,6 +61,10 @@ div.projectscroll{
   overflow: auto;
   white-space: nowrap;
 }
-
+.Working-On{
+      font-family: 'Titan One', cursive;
+      background-color: firebrick;
+      
+}
 
   
