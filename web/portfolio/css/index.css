@@ -44,7 +44,8 @@
 }
 
 .Contact{
-background-color: firebrick;
+  background-color: dimgrey;
+  font-family: 'Titan One', cursive;
 }
 .Skills{
   background-color: aquamarine;
@@ -70,7 +71,5 @@ div.projectscroll{
   background-color: aquamarine;
        font-family: 'Titan One', cursive;
 }
-.footer{
- background-color: dimgrey;
-}
+
   
